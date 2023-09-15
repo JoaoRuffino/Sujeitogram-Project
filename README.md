@@ -6,4 +6,4 @@ A project similar in many ways to Instagram, designed to develop CSS skills
 - 📗 CSS
 
 ## To acess the project: 
-- 
+- https://joaoruffino.github.io/Sujeitogram-Project/index.html
